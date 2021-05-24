@@ -1,0 +1,38 @@
+body{
+    background-color:white;
+    margin: auto;
+}
+.presentation{
+    background-color: rgb(112, 112, 255);
+    padding: 5px;
+    color: white;
+}
+.main{
+    display: flex;
+}
+.experiencetitle{
+    border-bottom: 3px solid rgb(112, 112, 255);
+}
+.info{
+    background: lightblue;
+}
+.infotitle{
+        border-bottom: 3px solid rgb(112, 112, 255);
+}
+
+h2{
+    color: rgb(112, 112, 255);
+    margin-left: 5px;
+}
+h3{
+    margin: 5px;
+}
+.firstlist>li{
+    display: flex;
+}
+i{
+    margin: 5px;
+}
+p{
+    margin: 5px;
+}
