@@ -6,15 +6,22 @@ body{
     background-color: rgb(112, 112, 255);
     padding: 5px;
     color: white;
+    width: 590px;
 }
 .main{
     display: flex;
+    width: 600px;
+}
+.experience{
+    width: 50%;
 }
 .experiencetitle{
     border-bottom: 3px solid rgb(112, 112, 255);
 }
 .info{
     background: lightblue;
+    width: 50%;
+    float: right;
 }
 .infotitle{
         border-bottom: 3px solid rgb(112, 112, 255);
